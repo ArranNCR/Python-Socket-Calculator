@@ -31,3 +31,4 @@ client.py explanation
 - 14th line to recieve the result and then print it to the console
 - 15th line to ask the user wether the user want to exit or continue
 - 16th - 18th line to exit the program if the user want to exit
+- 17th 
